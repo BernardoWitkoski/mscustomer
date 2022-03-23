@@ -10,6 +10,7 @@ import java.time.LocalDate;
 
 @Data
 @Entity
+//tabela customers
 @Table(name = "customers")
 public class Customer {
 
